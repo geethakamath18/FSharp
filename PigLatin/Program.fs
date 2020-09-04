@@ -1,4 +1,4 @@
-﻿// Learn more about F# at http://fsharp.org
+﻿// Program to convert a string to Pig Latin
 
 open System
 
