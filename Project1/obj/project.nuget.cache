@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkIUJez1WRgDPwbpA1wsr+NeCoUScIGP+bI9RldR1DUjcsYYjQ8qcXSfLx2x/3eAOvisW/s18valIM215GYD1g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\geeth\\Documents\\FSharp\\Project1\\project1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geeth\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
