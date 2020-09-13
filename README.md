@@ -6,6 +6,8 @@ To start off, you need to have VSCode or Visual Studio installed. Follow the ins
 
 Install the Ionide-FSharp plugin
 
+If you don't have F# installed on your machine, you can execute all of the samples in your browser with Try F# on WebAssembly.
+
 Following are some useful links that might help you get started with FSharp:
 
 https://docs.microsoft.com/en-us/dotnet/fsharp/
