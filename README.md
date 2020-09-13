@@ -7,5 +7,6 @@ To start off, you need to have VSCode or Visual Studio installed. Follow the ins
 Install the Ionide-FSharp plugin
 
 Following are some useful links that might help you get started with FSharp:
+
 https://docs.microsoft.com/en-us/dotnet/fsharp/
 https://www.tutorialspoint.com/fsharp/fsharp_environment_setup.htm
