@@ -10,4 +10,4 @@ Following are some useful links that might help you get started with FSharp:
 
 https://docs.microsoft.com/en-us/dotnet/fsharp/
 
-https://www.tutorialspoint.com/fsharp/fsharp_environment_setup.htm
+https://www.tutorialspoint.com/fsharp/index.htm
