@@ -1,7 +1,3 @@
-("The most fundamental pieces of any F# program are functions organized into modules. 
-Functions perform work on inputs to produce outputs, and they are organized under Modules, which are the primary way you group things in F#. 
-They are defined using the let binding, which give the function a name and define its arguments.")
-
 module BasicFunctions = 
 
     /// You use 'let' to define a function. This one accepts an integer argument and returns an integer. 
