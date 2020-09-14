@@ -27,7 +27,7 @@ module BasicFunctions =
         else 
             2.0*x*x + x/5.0 - 37.0
 
-    let result3 = sampleFunction3 (6.5 + 4.5)
+    let result3 = sampleFunction3 (6.5 + 4.2)
 
     // This line uses '%f' to print the result as a float.  As with '%d' above, this is type-safe.
     printfn "The result of applying the 3rd sample function to (6.5 + 4.5) is %f" result3
