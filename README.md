@@ -13,3 +13,7 @@ Following are some useful links that might help you get started with FSharp:
 https://docs.microsoft.com/en-us/dotnet/fsharp/
 
 https://www.tutorialspoint.com/fsharp/index.htm
+
+The following links maybe helpful for getting started with AKKA.NET:
+
+https://github.com/petabridge/akka-bootcamp
